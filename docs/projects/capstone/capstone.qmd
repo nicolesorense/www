@@ -1,0 +1,24 @@
+---
+title: "Capstone"
+description: "Capstone Project on Modeling Preventable Hospital Stays for SURE 2024 at CMU"
+date: July 2024
+resources: "."
+about:
+  template: solana
+  image: capstone_image.jpg
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/nicolesorense/Modeling-Preventable-Hospital-Stays
+    - icon: laptop
+      text: Slides
+      href: https://docs.google.com/presentation/d/112rVY7hseG9ShfWKyNmLoL9PTU1cIu1GTmRtl8dHmpI/edit?usp=sharing
+    - icon: filter-square-fill
+      text: Poster
+      href: https://docs.google.com/document/d/1UnqvcfNKVFWN3nhXiYCrP42dVPpmT41nESAVHSh6xhI/edit
+    - icon: pencil
+      text: Report
+      href: bit.ly/mnbvpoiu
+---
+
+Insert description down here

@@ -1,0 +1,35 @@
+project:
+  type: website
+  resources: assets
+  output-dir: docs
+
+website:
+  title: "Nicole Sorensen"
+  navbar:
+    background: "#B01C33"
+    left:
+      - href: index.qmd
+        text: Home
+      - projects.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/nicole-e-sorensen/
+        target: _blank
+      - icon: github
+        href: https://github.com/nicolesorense
+        target: _blank
+      - icon: file-earmark-pdf-fill
+        href: assets/Resume_Nicole_Sorensen_07_2024.pdf
+        target: _blank
+        
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+
+

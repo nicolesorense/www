@@ -1,0 +1,37 @@
+---
+title: "Nicole Sorensen"
+about:
+  template: jolla
+  image: assets/IMG_7971.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:nicole@allegromedia.com
+    - icon: github
+      text: GitHub
+      href: https://github.com/nicolesorense
+      target: _blank
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/nicole-e-sorensen/
+      target: _blank
+---
+
+Welcome to my website! I am a 3rd year undergraduate at Carnegie Mellon University, majoring in Statistics and Machine Learning. I'm interested in healthcare analytics. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
