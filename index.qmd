@@ -15,9 +15,6 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/nicole-e-sorensen/
       target: _blank
-    - icon: laptop
-      text: eda slides
-      href: assets/eda_slides
 ---
 
 Welcome to my website! I am a 3rd year undergraduate at Carnegie Mellon University, majoring in Statistics and Machine Learning. I'm interested in healthcare analytics. 
