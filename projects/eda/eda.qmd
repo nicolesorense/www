@@ -1,6 +1,6 @@
 ---
-title: "Covid Cases and Deaths EDA Project"
-description: "EDA project on covid cases and deaths during 2020"
+title: "COVID-19 dynamics of Pennsylvania"
+description: "EDA project on covid cases and deaths for counties in Pennsylvania during 2020"
 date: July 2024
 resources: "."
 about:
@@ -10,15 +10,10 @@ about:
     - icon: github
       text: "GitHub"
       href: https://github.com/LJxse27/Group-5
+      target: _blank
     - icon: laptop
       text: Slides
-      href: https://www.canva.com/design/DAGLHcmp3V8/tdRo6sebBaBf5Xr4v3vqPA/view?utm_content=DAGLHcmp3V8&utm_campaign=designshare&utm_medium=link&utm_source=editor
-    - icon: filter-square-fill
-      text: Poster
-      href: https://docs.google.com/document/d/1UnqvcfNKVFWN3nhXiYCrP42dVPpmT41nESAVHSh6xhI/edit
-    - icon: pencil
-      text: Report
-      href: bit.ly/mnbvpoiu
+      href: assets/eda_slides.pdf
+      target: _blank
 ---
 
-Insert description down here

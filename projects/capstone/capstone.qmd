@@ -1,24 +1,22 @@
 ---
-title: "Capstone"
-description: "Capstone Project on Modeling Preventable Hospital Stays for SURE 2024 at CMU"
+title: "Socioeconomic roots of racial disparities in hospitalizations"
+description: "Capstone project on modeling preventable hospital stays for SURE 2024 at CMU"
 date: July 2024
 resources: "."
 about:
   template: solana
-  image: capstone_image.jpg
+  image: capstone_image.png
   links:
-    - icon: github
-      text: "GitHub"
-      href: https://github.com/nicolesorense/Modeling-Preventable-Hospital-Stays
     - icon: laptop
       text: Slides
-      href: https://docs.google.com/presentation/d/112rVY7hseG9ShfWKyNmLoL9PTU1cIu1GTmRtl8dHmpI/edit?usp=sharing
+      href: assets/hospital_slides.pdf
+      target: _blank
     - icon: filter-square-fill
       text: Poster
-      href: https://docs.google.com/document/d/1UnqvcfNKVFWN3nhXiYCrP42dVPpmT41nESAVHSh6xhI/edit
+      href: assets/hospital_poster.pdf
+      target: _blank
     - icon: pencil
       text: Report
-      href: bit.ly/mnbvpoiu
+      href: assets/Preventable_hospitalizations_report_personal.html
+      target: _blank
 ---
-
-Insert description down here

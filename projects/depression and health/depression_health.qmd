@@ -1,0 +1,17 @@
+---
+title: "Depression and health"
+description: "Examinining what factors influence depression and health over time"
+date: December 2023
+resources: "."
+about:
+  template: solana
+  links:
+    - icon: pencil
+      text: "Report"
+      href: assets/315-FinalProject--3-.html
+      target: _blank
+    - icon: laptop
+      text: Slides
+      href: assets/depression_and_health.pdf
+      target: _blank
+---
