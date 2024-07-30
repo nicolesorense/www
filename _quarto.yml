@@ -19,7 +19,7 @@ website:
         href: https://github.com/nicolesorense
         target: _blank
       - icon: file-earmark-pdf-fill
-        href: assets/Resume_Nicole_Sorensen_07_2024.pdf
+        href: quarto renderResume_Nicole_Sorensen_07_2024.pdf
         target: _blank
         
 
