@@ -13,6 +13,6 @@ about:
       target: _blank
     - icon: laptop
       text: Slides
-      href: ../../../assets/eda_slides.pdf
+      href: assets/eda_slides.pdf
 ---
 
